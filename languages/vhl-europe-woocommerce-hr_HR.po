@@ -1,0 +1,203 @@
+# VHL Europe WooCommerce - Croatian Translation
+# Copyright (C) 2024 VHL Europe
+# This file is distributed under the GPL v2 license.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VHL Europe WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://vhleurope.com\n"
+"POT-Creation-Date: 2024-12-23 12:00+0000\n"
+"PO-Revision-Date: 2024-12-23 12:00+0000\n"
+"Last-Translator: VHL Europe <info@vhleurope.com>\n"
+"Language-Team: Croatian\n"
+"Language: hr_HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "VHL Europe WooCommerce requires WooCommerce to be installed and active."
+msgstr "VHL Europe WooCommerce zahtijeva da WooCommerce bude instaliran i aktivan."
+
+msgid "VHL Europe Settings"
+msgstr "VHL Europe Postavke"
+
+msgid "VHL Europe"
+msgstr "VHL Europe"
+
+msgid "API Settings"
+msgstr "API Postavke"
+
+msgid "API Bearer Token"
+msgstr "API Bearer Token"
+
+msgid "Shipping Settings"
+msgstr "Postavke dostave"
+
+msgid "Enable DPD"
+msgstr "Omogući DPD"
+
+msgid "Map DPD to WooCommerce Shipping Method"
+msgstr "Poveži DPD s WooCommerce načinom dostave"
+
+msgid "Enable Packeta"
+msgstr "Omogući Packeta"
+
+msgid "Payment Settings"
+msgstr "Postavke plaćanja"
+
+msgid "Enable Cash on Delivery"
+msgstr "Omogući plaćanje pouzećem"
+
+msgid "Map COD to WooCommerce Payment Method"
+msgstr "Poveži plaćanje pouzećem s WooCommerce načinom plaćanja"
+
+msgid "VHL Europe API Logs"
+msgstr "VHL Europe API Zapisnici"
+
+msgid "VHL Europe Logs"
+msgstr "VHL Europe Zapisnici"
+
+msgid "Order ID"
+msgstr "ID narudžbe"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Show All"
+msgstr "Prikaži sve"
+
+msgid "Clear Old Logs (30+ days)"
+msgstr "Obriši stare zapisnike (30+ dana)"
+
+msgid "No API logs found."
+msgstr "Nisu pronađeni API zapisnici."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Response Code"
+msgstr "Kod odgovora"
+
+msgid "Created"
+msgstr "Stvoreno"
+
+msgid "Actions"
+msgstr "Akcije"
+
+msgid "View Details"
+msgstr "Prikaži detalje"
+
+msgid "API Log Details"
+msgstr "Detalji API zapisnika"
+
+msgid "Close"
+msgstr "Zatvori"
+
+msgid "Enter your VHL Europe API bearer token."
+msgstr "Unesite vaš VHL Europe API bearer token."
+
+msgid "Enable DPD shipping method"
+msgstr "Omogući DPD način dostave"
+
+msgid "Select shipping method"
+msgstr "Odaberite način dostave"
+
+msgid "Enable Packeta shipping method"
+msgstr "Omogući Packeta način dostave"
+
+msgid "Select payment method"
+msgstr "Odaberite način plaćanja"
+
+msgid "API token is not configured."
+msgstr "API token nije konfiguriran."
+
+msgid "Packeta plugin is installed and active."
+msgstr "Packeta plugin je instaliran i aktivan."
+
+msgid "Packeta plugin is not installed. Install it to enable Packeta shipping option."
+msgstr "Packeta plugin nije instaliran. Instalirajte ga za omogućavanje Packeta opcije dostave."
+
+msgid "Configure API settings for VHL Europe integration."
+msgstr "Konfigurirajte API postavke za VHL Europe integraciju."
+
+msgid "Configure shipping methods mapping."
+msgstr "Konfigurirajte mapiranje načina dostave."
+
+msgid "Configure payment methods mapping."
+msgstr "Konfigurirajte mapiranje načina plaćanja."
+
+msgid "Select which WooCommerce shipping method should be mapped to DPD."
+msgstr "Odaberite koji WooCommerce način dostave treba biti mapiran na DPD."
+
+msgid "Packeta plugin must be installed and active to enable this option."
+msgstr "Packeta plugin mora biti instaliran i aktivan za omogućavanje ove opcije."
+
+msgid "Select which WooCommerce payment method should be mapped to COD."
+msgstr "Odaberite koji WooCommerce način plaćanja treba biti mapiran na plaćanje pouzećem."
+
+msgid "Error loading log details"
+msgstr "Greška pri učitavanju detalja zapisnika"
+
+msgid "Are you sure you want to clear logs older than 30 days?"
+msgstr "Jeste li sigurni da želite obrisati zapisnike starije od 30 dana?"
+
+msgid "Error clearing logs"
+msgstr "Greška pri brisanju zapisnika"
+
+msgid "Permission denied"
+msgstr "Pristup odbijen"
+
+msgid "Deleted %d old log entries."
+msgstr "Obrisano %d starih unosa zapisnika."
+
+msgid "Log not found"
+msgstr "Zapisnik nije pronađen"
+
+msgid "Basic Information"
+msgstr "Osnovne informacije"
+
+msgid "Log ID:"
+msgstr "ID zapisnika:"
+
+msgid "Order ID:"
+msgstr "ID narudžbe:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Response Code:"
+msgstr "Kod odgovora:"
+
+msgid "Created:"
+msgstr "Stvoreno:"
+
+msgid "Error Message"
+msgstr "Poruka o grešci"
+
+msgid "Request Data"
+msgstr "Podaci zahtjeva"
+
+msgid "Response Data"
+msgstr "Podaci odgovora"
+
+msgid "API returned error: %s"
+msgstr "API je vratio grešku: %s"
+
+msgid "Invalid JSON response from API."
+msgstr "Neispravni JSON odgovor od API-ja."
+
+msgid "Invalid order object."
+msgstr "Neispravni objekt narudžbe."
+
+msgid "VHL Europe: Error preparing order data: %s"
+msgstr "VHL Europe: Greška pri pripremi podataka narudžbe: %s"
+
+msgid "VHL Europe: API Error: %s"
+msgstr "VHL Europe: API greška: %s"
+
+msgid "Order successfully sent to VHL Europe for fulfillment."
+msgstr "Narudžba je uspješno poslana u VHL Europe za obradu."

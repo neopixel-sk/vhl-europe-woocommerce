@@ -1,0 +1,203 @@
+# VHL Europe WooCommerce - Dutch Translation
+# Copyright (C) 2024 VHL Europe
+# This file is distributed under the GPL v2 license.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VHL Europe WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://vhleurope.com\n"
+"POT-Creation-Date: 2024-12-23 12:00+0000\n"
+"PO-Revision-Date: 2024-12-23 12:00+0000\n"
+"Last-Translator: VHL Europe <info@vhleurope.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "VHL Europe WooCommerce requires WooCommerce to be installed and active."
+msgstr "VHL Europe WooCommerce vereist dat WooCommerce is geïnstalleerd en actief."
+
+msgid "VHL Europe Settings"
+msgstr "VHL Europe Instellingen"
+
+msgid "VHL Europe"
+msgstr "VHL Europe"
+
+msgid "API Settings"
+msgstr "API Instellingen"
+
+msgid "API Bearer Token"
+msgstr "API Bearer Token"
+
+msgid "Shipping Settings"
+msgstr "Verzendingsinstellingen"
+
+msgid "Enable DPD"
+msgstr "DPD inschakelen"
+
+msgid "Map DPD to WooCommerce Shipping Method"
+msgstr "DPD koppelen aan WooCommerce verzendmethode"
+
+msgid "Enable Packeta"
+msgstr "Packeta inschakelen"
+
+msgid "Payment Settings"
+msgstr "Betalingsinstellingen"
+
+msgid "Enable Cash on Delivery"
+msgstr "Onder rembours inschakelen"
+
+msgid "Map COD to WooCommerce Payment Method"
+msgstr "Onder rembours koppelen aan WooCommerce betaalmethode"
+
+msgid "VHL Europe API Logs"
+msgstr "VHL Europe API Logs"
+
+msgid "VHL Europe Logs"
+msgstr "VHL Europe Logs"
+
+msgid "Order ID"
+msgstr "Bestelling ID"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Show All"
+msgstr "Toon alles"
+
+msgid "Clear Old Logs (30+ days)"
+msgstr "Oude logs wissen (30+ dagen)"
+
+msgid "No API logs found."
+msgstr "Geen API logs gevonden."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Response Code"
+msgstr "Responscode"
+
+msgid "Created"
+msgstr "Aangemaakt"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "View Details"
+msgstr "Bekijk details"
+
+msgid "API Log Details"
+msgstr "API Log Details"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Enter your VHL Europe API bearer token."
+msgstr "Voer uw VHL Europe API bearer token in."
+
+msgid "Enable DPD shipping method"
+msgstr "DPD verzendmethode inschakelen"
+
+msgid "Select shipping method"
+msgstr "Selecteer verzendmethode"
+
+msgid "Enable Packeta shipping method"
+msgstr "Packeta verzendmethode inschakelen"
+
+msgid "Select payment method"
+msgstr "Selecteer betaalmethode"
+
+msgid "API token is not configured."
+msgstr "API token is niet geconfigureerd."
+
+msgid "Packeta plugin is installed and active."
+msgstr "Packeta plugin is geïnstalleerd en actief."
+
+msgid "Packeta plugin is not installed. Install it to enable Packeta shipping option."
+msgstr "Packeta plugin is niet geïnstalleerd. Installeer het om de Packeta verzendoptie in te schakelen."
+
+msgid "Configure API settings for VHL Europe integration."
+msgstr "Configureer API-instellingen voor VHL Europe integratie."
+
+msgid "Configure shipping methods mapping."
+msgstr "Configureer de toewijzing van verzendmethoden."
+
+msgid "Configure payment methods mapping."
+msgstr "Configureer de toewijzing van betaalmethoden."
+
+msgid "Select which WooCommerce shipping method should be mapped to DPD."
+msgstr "Selecteer welke WooCommerce verzendmethode moet worden toegewezen aan DPD."
+
+msgid "Packeta plugin must be installed and active to enable this option."
+msgstr "Packeta plugin moet geïnstalleerd en actief zijn om deze optie in te schakelen."
+
+msgid "Select which WooCommerce payment method should be mapped to COD."
+msgstr "Selecteer welke WooCommerce betaalmethode moet worden toegewezen aan onder rembours."
+
+msgid "Error loading log details"
+msgstr "Fout bij het laden van log details"
+
+msgid "Are you sure you want to clear logs older than 30 days?"
+msgstr "Weet u zeker dat u logs ouder dan 30 dagen wilt wissen?"
+
+msgid "Error clearing logs"
+msgstr "Fout bij het wissen van logs"
+
+msgid "Permission denied"
+msgstr "Toegang geweigerd"
+
+msgid "Deleted %d old log entries."
+msgstr "%d oude log-items verwijderd."
+
+msgid "Log not found"
+msgstr "Log niet gevonden"
+
+msgid "Basic Information"
+msgstr "Basisinformatie"
+
+msgid "Log ID:"
+msgstr "Log ID:"
+
+msgid "Order ID:"
+msgstr "Bestelling ID:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Response Code:"
+msgstr "Responscode:"
+
+msgid "Created:"
+msgstr "Aangemaakt:"
+
+msgid "Error Message"
+msgstr "Foutmelding"
+
+msgid "Request Data"
+msgstr "Aanvraaggegevens"
+
+msgid "Response Data"
+msgstr "Antwoordgegevens"
+
+msgid "API returned error: %s"
+msgstr "API heeft fout geretourneerd: %s"
+
+msgid "Invalid JSON response from API."
+msgstr "Ongeldige JSON-reactie van API."
+
+msgid "Invalid order object."
+msgstr "Ongeldig bestellingsobject."
+
+msgid "VHL Europe: Error preparing order data: %s"
+msgstr "VHL Europe: Fout bij het voorbereiden van bestellingsgegevens: %s"
+
+msgid "VHL Europe: API Error: %s"
+msgstr "VHL Europe: API Fout: %s"
+
+msgid "Order successfully sent to VHL Europe for fulfillment."
+msgstr "Bestelling succesvol verzonden naar VHL Europe voor afhandeling."

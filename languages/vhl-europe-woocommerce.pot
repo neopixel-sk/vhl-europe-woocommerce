@@ -26,6 +26,12 @@ msgstr ""
 msgid "VHL Europe"
 msgstr ""
 
+msgid "VHL Europe API Logs"
+msgstr ""
+
+msgid "VHL Europe Logs"
+msgstr ""
+
 msgid "API Settings"
 msgstr ""
 
@@ -53,10 +59,43 @@ msgstr ""
 msgid "Map COD to WooCommerce Payment Method"
 msgstr ""
 
-msgid "VHL Europe API Logs"
+msgid "Packeta plugin is installed and active."
 msgstr ""
 
-msgid "VHL Europe Logs"
+msgid "Packeta plugin is not installed. Install it to enable Packeta shipping option."
+msgstr ""
+
+msgid "Configure API settings for VHL Europe integration."
+msgstr ""
+
+msgid "Configure shipping methods mapping."
+msgstr ""
+
+msgid "Configure payment methods mapping."
+msgstr ""
+
+msgid "Enter your VHL Europe API bearer token."
+msgstr ""
+
+msgid "Enable DPD shipping method"
+msgstr ""
+
+msgid "Select shipping method"
+msgstr ""
+
+msgid "Select which WooCommerce shipping method should be mapped to DPD."
+msgstr ""
+
+msgid "Enable Packeta shipping method"
+msgstr ""
+
+msgid "Packeta plugin must be installed and active to enable this option."
+msgstr ""
+
+msgid "Select payment method"
+msgstr ""
+
+msgid "Select which WooCommerce payment method should be mapped to COD."
 msgstr ""
 
 msgid "Order ID"
@@ -107,10 +146,10 @@ msgstr ""
 msgid "Error clearing logs"
 msgstr ""
 
-msgid "Deleted %d old log entries."
+msgid "Permission denied"
 msgstr ""
 
-msgid "Permission denied"
+msgid "Deleted %d old log entries."
 msgstr ""
 
 msgid "Log not found"
@@ -141,4 +180,25 @@ msgid "Request Data"
 msgstr ""
 
 msgid "Response Data"
+msgstr ""
+
+msgid "API token is not configured."
+msgstr ""
+
+msgid "API returned error: %s"
+msgstr ""
+
+msgid "Invalid JSON response from API."
+msgstr ""
+
+msgid "Invalid order object."
+msgstr ""
+
+msgid "VHL Europe: Error preparing order data: %s"
+msgstr ""
+
+msgid "VHL Europe: API Error: %s"
+msgstr ""
+
+msgid "Order successfully sent to VHL Europe for fulfillment."
 msgstr ""

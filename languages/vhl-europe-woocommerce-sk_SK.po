@@ -202,5 +202,80 @@ msgstr "VHL Europe: Chyba pri príprave dát objednávky: %s"
 msgid "VHL Europe: API Error: %s"
 msgstr "VHL Europe: API chyba: %s"
 
+msgid "Configure API settings for VHL Europe integration."
+msgstr "Nakonfigurujte nastavenia API pre integráciu VHL Europe."
+
+msgid "Configure shipping methods mapping."
+msgstr "Nakonfigurujte mapovanie spôsobov dopravy."
+
+msgid "Configure payment methods mapping."
+msgstr "Nakonfigurujte mapovanie spôsobov platby."
+
+msgid "Select which WooCommerce shipping method should be mapped to DPD."
+msgstr "Vyberte, ktorý WooCommerce spôsob dopravy má byť priradený k DPD."
+
+msgid "Enable Packeta shipping method"
+msgstr "Povoliť Packeta spôsob dopravy"
+
+msgid "Packeta plugin must be installed and active to enable this option."
+msgstr "Packeta plugin musí byť nainštalovaný a aktívny na povolenie tejto možnosti."
+
+msgid "Select which WooCommerce payment method should be mapped to COD."
+msgstr "Vyberte, ktorý WooCommerce spôsob platby má byť priradený k dobierke."
+
+msgid "Clear Old Logs (30+ days)"
+msgstr "Vymazať staré logy (30+ dní)"
+
+msgid "No API logs found."
+msgstr "Neboli nájdené žiadne API logy."
+
+msgid "Error loading log details"
+msgstr "Chyba pri načítavaní detailov logu"
+
+msgid "Are you sure you want to clear logs older than 30 days?"
+msgstr "Ste si istí, že chcete vymazať logy staršie ako 30 dní?"
+
+msgid "Error clearing logs"
+msgstr "Chyba pri mazaní logov"
+
+msgid "Deleted %d old log entries."
+msgstr "Vymazané %d starých záznamov logu."
+
+msgid "Log not found"
+msgstr "Log nenájdený"
+
+msgid "Log ID:"
+msgstr "ID logu:"
+
+msgid "Order ID:"
+msgstr "ID objednávky:"
+
+msgid "Status:"
+msgstr "Stav:"
+
+msgid "Response Code:"
+msgstr "Kód odpovede:"
+
+msgid "Created:"
+msgstr "Vytvorené:"
+
+msgid "API token is not configured."
+msgstr "API token nie je nakonfigurovaný."
+
+msgid "API returned error: %s"
+msgstr "API vrátilo chybu: %s"
+
+msgid "Invalid JSON response from API."
+msgstr "Neplatná JSON odpoveď z API."
+
+msgid "Invalid order object."
+msgstr "Neplatný objekt objednávky."
+
+msgid "VHL Europe: Error preparing order data: %s"
+msgstr "VHL Europe: Chyba pri príprave dát objednávky: %s"
+
+msgid "VHL Europe: API Error: %s"
+msgstr "VHL Europe: API chyba: %s"
+
 msgid "Order successfully sent to VHL Europe for fulfillment."
 msgstr "Objednávka úspešne odoslaná do VHL Europe na vybavenie."

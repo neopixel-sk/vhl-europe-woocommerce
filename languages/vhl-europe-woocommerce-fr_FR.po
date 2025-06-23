@@ -1,0 +1,206 @@
+# VHL Europe WooCommerce - French Translation
+# Copyright (C) 2024 VHL Europe
+# This file is distributed under the GPL v2 license.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VHL Europe WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://vhleurope.com\n"
+"POT-Creation-Date: 2024-12-23 12:00+0000\n"
+"PO-Revision-Date: 2024-12-23 12:00+0000\n"
+"Last-Translator: VHL Europe <info@vhleurope.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "VHL Europe WooCommerce requires WooCommerce to be installed and active."
+msgstr "VHL Europe WooCommerce nécessite que WooCommerce soit installé et actif."
+
+msgid "VHL Europe Settings"
+msgstr "Paramètres VHL Europe"
+
+msgid "VHL Europe"
+msgstr "VHL Europe"
+
+msgid "API Settings"
+msgstr "Paramètres API"
+
+msgid "API Bearer Token"
+msgstr "API Bearer Token"
+
+msgid "Shipping Settings"
+msgstr "Paramètres de livraison"
+
+msgid "Enable DPD"
+msgstr "Activer DPD"
+
+msgid "Map DPD to WooCommerce Shipping Method"
+msgstr "Associer DPD à la méthode de livraison WooCommerce"
+
+msgid "Enable Packeta"
+msgstr "Activer Packeta"
+
+msgid "Payment Settings"
+msgstr "Paramètres de paiement"
+
+msgid "Enable Cash on Delivery"
+msgstr "Activer le paiement à la livraison"
+
+msgid "Map COD to WooCommerce Payment Method"
+msgstr "Associer le paiement à la livraison à la méthode de paiement WooCommerce"
+
+msgid "VHL Europe API Logs"
+msgstr "Journaux API VHL Europe"
+
+msgid "VHL Europe Logs"
+msgstr "Journaux VHL Europe"
+
+msgid "Order ID"
+msgstr "ID commande"
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "Show All"
+msgstr "Tout afficher"
+
+msgid "Clear Old Logs (30+ days)"
+msgstr "Effacer les anciens journaux (30+ jours)"
+
+msgid "No API logs found."
+msgstr "Aucun journal API trouvé."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Response Code"
+msgstr "Code de réponse"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "View Details"
+msgstr "Voir les détails"
+
+msgid "API Log Details"
+msgstr "Détails du journal API"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Error loading log details"
+msgstr "Erreur lors du chargement des détails du journal"
+
+msgid "Are you sure you want to clear logs older than 30 days?"
+msgstr "Êtes-vous sûr de vouloir effacer les journaux de plus de 30 jours ?"
+
+msgid "Error clearing logs"
+msgstr "Erreur lors de l'effacement des journaux"
+
+msgid "Deleted %d old log entries."
+msgstr "%d anciennes entrées de journal supprimées."
+
+msgid "Permission denied"
+msgstr "Permission refusée"
+
+msgid "Log not found"
+msgstr "Journal introuvable"
+
+msgid "Basic Information"
+msgstr "Informations de base"
+
+msgid "Log ID:"
+msgstr "ID journal :"
+
+msgid "Order ID:"
+msgstr "ID commande :"
+
+msgid "Status:"
+msgstr "Statut :"
+
+msgid "Response Code:"
+msgstr "Code de réponse :"
+
+msgid "Created:"
+msgstr "Créé :"
+
+msgid "Error Message"
+msgstr "Message d'erreur"
+
+msgid "Request Data"
+msgstr "Données de la requête"
+
+msgid "Response Data"
+msgstr "Données de la réponse"
+
+msgid "Packeta plugin is installed and active."
+msgstr "Le plugin Packeta est installé et actif."
+
+msgid "Packeta plugin is not installed. Install it to enable Packeta shipping option."
+msgstr "Le plugin Packeta n'est pas installé. Installez-le pour activer l'option de livraison Packeta."
+
+msgid "Configure API settings for VHL Europe integration."
+msgstr "Configurez les paramètres API pour l'intégration VHL Europe."
+
+msgid "Configure shipping methods mapping."
+msgstr "Configurez la correspondance des méthodes de livraison."
+
+msgid "Configure payment methods mapping."
+msgstr "Configurez la correspondance des méthodes de paiement."
+
+msgid "Enter your VHL Europe API bearer token."
+msgstr "Entrez votre jeton bearer API VHL Europe."
+
+msgid "Enable DPD shipping method"
+msgstr "Activer la méthode de livraison DPD"
+
+msgid "Select shipping method"
+msgstr "Sélectionner la méthode de livraison"
+
+msgid "Select which WooCommerce shipping method should be mapped to DPD."
+msgstr "Sélectionnez quelle méthode de livraison WooCommerce doit être associée à DPD."
+
+msgid "Enable Packeta shipping method"
+msgstr "Activer la méthode de livraison Packeta"
+
+msgid "Packeta plugin must be installed and active to enable this option."
+msgstr "Le plugin Packeta doit être installé et actif pour activer cette option."
+
+msgid "Enable Cash on Delivery"
+msgstr "Activer le paiement à la livraison"
+
+msgid "Select payment method"
+msgstr "Sélectionner la méthode de paiement"
+
+msgid "Select which WooCommerce payment method should be mapped to COD."
+msgstr "Sélectionnez quelle méthode de paiement WooCommerce doit être associée au paiement à la livraison."
+
+msgid "API token is not configured."
+msgstr "Le jeton API n'est pas configuré."
+
+msgid "API returned error: %s"
+msgstr "L'API a retourné une erreur : %s"
+
+msgid "Invalid JSON response from API."
+msgstr "Réponse JSON invalide de l'API."
+
+msgid "Invalid order object."
+msgstr "Objet commande invalide."
+
+msgid "VHL Europe: Error preparing order data: %s"
+msgstr "VHL Europe : Erreur lors de la préparation des données de commande : %s"
+
+msgid "VHL Europe: API Error: %s"
+msgstr "VHL Europe : Erreur API : %s"
+
+msgid "Order successfully sent to VHL Europe for fulfillment."
+msgstr "Commande envoyée avec succès à VHL Europe pour traitement."

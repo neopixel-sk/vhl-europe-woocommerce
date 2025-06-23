@@ -1,0 +1,206 @@
+# VHL Europe WooCommerce - Bulgarian Translation
+# Copyright (C) 2024 VHL Europe
+# This file is distributed under the GPL v2 license.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VHL Europe WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://vhleurope.com\n"
+"POT-Creation-Date: 2024-12-23 12:00+0000\n"
+"PO-Revision-Date: 2024-12-23 12:00+0000\n"
+"Last-Translator: VHL Europe <info@vhleurope.com>\n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "VHL Europe WooCommerce requires WooCommerce to be installed and active."
+msgstr "VHL Europe WooCommerce изисква WooCommerce да бъде инсталиран и активен."
+
+msgid "VHL Europe Settings"
+msgstr "Настройки на VHL Europe"
+
+msgid "VHL Europe"
+msgstr "VHL Europe"
+
+msgid "API Settings"
+msgstr "API настройки"
+
+msgid "API Bearer Token"
+msgstr "API Bearer Token"
+
+msgid "Shipping Settings"
+msgstr "Настройки за доставка"
+
+msgid "Enable DPD"
+msgstr "Активиране на DPD"
+
+msgid "Map DPD to WooCommerce Shipping Method"
+msgstr "Съпоставяне на DPD с метод за доставка на WooCommerce"
+
+msgid "Enable Packeta"
+msgstr "Активиране на Packeta"
+
+msgid "Payment Settings"
+msgstr "Настройки за плащане"
+
+msgid "Enable Cash on Delivery"
+msgstr "Активиране на наложен платеж"
+
+msgid "Map COD to WooCommerce Payment Method"
+msgstr "Съпоставяне на наложен платеж с метод за плащане на WooCommerce"
+
+msgid "VHL Europe API Logs"
+msgstr "VHL Europe API логове"
+
+msgid "VHL Europe Logs"
+msgstr "VHL Europe логове"
+
+msgid "Order ID"
+msgstr "ID на поръчка"
+
+msgid "Filter"
+msgstr "Филтриране"
+
+msgid "Show All"
+msgstr "Покажи всички"
+
+msgid "Clear Old Logs (30+ days)"
+msgstr "Изчистване на стари логове (30+ дни)"
+
+msgid "No API logs found."
+msgstr "Не са намерени API логове."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Response Code"
+msgstr "Код на отговор"
+
+msgid "Created"
+msgstr "Създаден"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "View Details"
+msgstr "Вижте подробности"
+
+msgid "API Log Details"
+msgstr "Подробности за API лог"
+
+msgid "Close"
+msgstr "Затваряне"
+
+msgid "Error loading log details"
+msgstr "Грешка при зареждане на подробности за лога"
+
+msgid "Are you sure you want to clear logs older than 30 days?"
+msgstr "Сигурни ли сте, че искате да изчистите логове по-стари от 30 дни?"
+
+msgid "Error clearing logs"
+msgstr "Грешка при изчистване на логове"
+
+msgid "Deleted %d old log entries."
+msgstr "Изтрити %d стари записи в лога."
+
+msgid "Permission denied"
+msgstr "Отказан достъп"
+
+msgid "Log not found"
+msgstr "Логът не е намерен"
+
+msgid "Basic Information"
+msgstr "Основна информация"
+
+msgid "Log ID:"
+msgstr "ID на лог:"
+
+msgid "Order ID:"
+msgstr "ID на поръчка:"
+
+msgid "Status:"
+msgstr "Статус:"
+
+msgid "Response Code:"
+msgstr "Код на отговор:"
+
+msgid "Created:"
+msgstr "Създаден:"
+
+msgid "Error Message"
+msgstr "Съобщение за грешка"
+
+msgid "Request Data"
+msgstr "Данни за заявка"
+
+msgid "Response Data"
+msgstr "Данни за отговор"
+
+msgid "Packeta plugin is installed and active."
+msgstr "Packeta добавката е инсталирана и активна."
+
+msgid "Packeta plugin is not installed. Install it to enable Packeta shipping option."
+msgstr "Packeta добавката не е инсталирана. Инсталирайте я, за да активирате опцията за доставка Packeta."
+
+msgid "Configure API settings for VHL Europe integration."
+msgstr "Конфигуриране на API настройки за VHL Europe интеграция."
+
+msgid "Configure shipping methods mapping."
+msgstr "Конфигуриране на съпоставяне на методи за доставка."
+
+msgid "Configure payment methods mapping."
+msgstr "Конфигуриране на съпоставяне на методи за плащане."
+
+msgid "Enter your VHL Europe API bearer token."
+msgstr "Въведете вашия VHL Europe API bearer token."
+
+msgid "Enable DPD shipping method"
+msgstr "Активиране на метод за доставка DPD"
+
+msgid "Select shipping method"
+msgstr "Изберете метод за доставка"
+
+msgid "Select which WooCommerce shipping method should be mapped to DPD."
+msgstr "Изберете кой метод за доставка на WooCommerce да бъде съпоставен с DPD."
+
+msgid "Enable Packeta shipping method"
+msgstr "Активиране на метод за доставка Packeta"
+
+msgid "Packeta plugin must be installed and active to enable this option."
+msgstr "Packeta добавката трябва да бъде инсталирана и активна, за да се активира тази опция."
+
+msgid "Enable Cash on Delivery"
+msgstr "Активиране на наложен платеж"
+
+msgid "Select payment method"
+msgstr "Изберете метод за плащане"
+
+msgid "Select which WooCommerce payment method should be mapped to COD."
+msgstr "Изберете кой метод за плащане на WooCommerce да бъде съпоставен с наложен платеж."
+
+msgid "API token is not configured."
+msgstr "API токенът не е конфигуриран."
+
+msgid "API returned error: %s"
+msgstr "API върна грешка: %s"
+
+msgid "Invalid JSON response from API."
+msgstr "Невалиден JSON отговор от API."
+
+msgid "Invalid order object."
+msgstr "Невалиден обект поръчка."
+
+msgid "VHL Europe: Error preparing order data: %s"
+msgstr "VHL Europe: Грешка при подготовка на данни за поръчка: %s"
+
+msgid "VHL Europe: API Error: %s"
+msgstr "VHL Europe: API грешка: %s"
+
+msgid "Order successfully sent to VHL Europe for fulfillment."
+msgstr "Поръчката е изпратена успешно до VHL Europe за изпълнение."

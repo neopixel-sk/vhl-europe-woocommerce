@@ -39,6 +39,7 @@ class VHL_Europe_WooCommerce {
     }
     
     private function __construct() {
+        add_action('init', array($this, 'load_textdomain'));
         add_action('plugins_loaded', array($this, 'init'));
     }
     
@@ -48,15 +49,35 @@ class VHL_Europe_WooCommerce {
             return;
         }
         
-        $this->load_textdomain();
         $this->includes();
         $this->hooks();
         
         VHL_Europe_Logger::init();
     }
     
-    private function load_textdomain() {
-        load_plugin_textdomain('vhl-europe-woocommerce', false, dirname(VHL_EUROPE_WC_PLUGIN_BASENAME) . '/languages');
+    public function load_textdomain() {
+        $domain = 'vhl-europe-woocommerce';
+        $locale = apply_filters('plugin_locale', get_locale(), $domain);
+        
+        // Try to load from WordPress languages directory first
+        $mofile = sprintf('%s-%s.mo', $domain, $locale);
+        
+        // Check if file exists in WP languages directory
+        $global_mo = WP_LANG_DIR . '/plugins/' . $mofile;
+        if (file_exists($global_mo)) {
+            load_textdomain($domain, $global_mo);
+            return;
+        }
+        
+        // Fallback to plugin directory
+        $plugin_mo = VHL_EUROPE_WC_PLUGIN_PATH . 'languages/' . $mofile;
+        if (file_exists($plugin_mo)) {
+            load_textdomain($domain, $plugin_mo);
+            return;
+        }
+        
+        // Final fallback
+        load_plugin_textdomain($domain, false, dirname(VHL_EUROPE_WC_PLUGIN_BASENAME) . '/languages');
     }
     
     private function includes() {
